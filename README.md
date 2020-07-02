@@ -1,17 +1,22 @@
-# [strahinja.github.io][1]
+# strahinja.github.io
 
-My main GitHub page
+## Who am I?
+
+Just a guy with a passion for programming. I started coding with Basic in the
+1990s and went all the way to [Nuxt.js][1].
 
 ## My GitHub projects
 
-- [hexfonted][2] — An editor of bitmap fonts in the hex format by Roman
-  Czyborra, written in jQuery and Bootstrap.
-
-## Links
-
-- [My website][3] — My website is currently using a custom PHP backend and a
+- [strahinja.org][2] — My website is currently using a custom PHP backend and a
   Vue.js frontend. Adding new things every once in a while! 😄
 
-[1]: <https://strahinja.github.io>
-[2]: <https://github.com/Strahinja/hexfonted> "hexfonted"
-[3]: <http://strahinja.org>
+- [dotfiles][3] – My configuration files in a handy place. 😊 
+
+- [hexfonted][4] — An editor of bitmap fonts in the hex format by Roman
+  Czyborra, written in jQuery and Bootstrap. 💻
+
+[1]: https://nuxtjs.org
+[2]: http://strahinja.org
+[3]: https://github.com/Strahinja/dotfiles
+[4]: https://github.com/Strahinja/hexfonted
+
